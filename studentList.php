@@ -1,0 +1,1 @@
+<?php   require "./view/studentLists_view.php";
